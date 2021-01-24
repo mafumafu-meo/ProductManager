@@ -1,0 +1,5 @@
+1000|May Giat|Somethings|5000
+1001|Ti vi|Somethings|15000
+1002|Tủ lạnh|Somethings|6000
+1003|May Giat|Somethings|5000
+1004|May Giat|Somethings|5000

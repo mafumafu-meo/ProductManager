@@ -1,0 +1,2 @@
+- sửa lại thiết kế db
+- thêm chức năng thêm sửa xoá với dữ liệu ảnh

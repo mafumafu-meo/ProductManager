@@ -1,0 +1,4 @@
+1000|Ti vi|somethings|7000
+1001|Chổi|somethings|100
+1002|Khăn mặt|somethings|500
+1003|Quần áo|somethings|1000
